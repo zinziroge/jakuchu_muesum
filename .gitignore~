@@ -30,12 +30,4 @@ sysinfo.txt
 *.unitypackage
 
 *.jpg
-/Asset/VRSampleScenes/*
-Assets/VRSampleScenes/
-Assets/_Barking_Dog/
-Assets/Wooden floor/
-Assets/Plugins/
-Assets/VRStandardAssets/
-Assets/OculusPlatform/
-Assets/ThirdParty/
-Assets/Materials/Ito_Jakuchu_AjisaiSoukei-zu.mat
+Asset/VRSampleScenes/*
